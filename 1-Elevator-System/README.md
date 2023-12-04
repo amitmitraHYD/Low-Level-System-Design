@@ -7,6 +7,6 @@
 2. Identify the classes involved.
 
 3. Implement the elevator design code.
-    a. In the first iteration, we will create the classes we identified previously.
-    b. In the second iteration, we will add logic to start the elevator and process any jobs if available.
-    2. In the third iteration, we will add logic to add jobs to the elevator.
+    In the first iteration, we will create the classes we identified previously.
+    In the second iteration, we will add logic to start the elevator and process any jobs if available.
+    In the third iteration, we will add logic to add jobs to the elevator.
